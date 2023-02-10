@@ -1,0 +1,11 @@
+diff --git a/new.txt b/new.txt
+index ce555e6..8e1e2cc 100644
+--- a/new.txt
++++ b/new.txt
+@@ -1 +1,6 @@
+ new file created
++
++
++New file updated
++Line 3
++abc
